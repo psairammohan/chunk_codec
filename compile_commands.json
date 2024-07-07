@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/saisira/Documents/chunk_codec",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -o CMakeFiles/video_info.dir/src/video_info.cpp.o -c /home/saisira/Documents/chunk_codec/src/video_info.cpp",
+  "file": "/home/saisira/Documents/chunk_codec/src/video_info.cpp",
+  "output": "CMakeFiles/video_info.dir/src/video_info.cpp.o"
+},
+{
+  "directory": "/home/saisira/Documents/chunk_codec",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -o CMakeFiles/scene_change.dir/src/scene_change.cpp.o -c /home/saisira/Documents/chunk_codec/src/scene_change.cpp",
+  "file": "/home/saisira/Documents/chunk_codec/src/scene_change.cpp",
+  "output": "CMakeFiles/scene_change.dir/src/scene_change.cpp.o"
+},
+{
+  "directory": "/home/saisira/Documents/chunk_codec",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -o CMakeFiles/chunk_video.dir/src/chunk_video.cpp.o -c /home/saisira/Documents/chunk_codec/src/chunk_video.cpp",
+  "file": "/home/saisira/Documents/chunk_codec/src/chunk_video.cpp",
+  "output": "CMakeFiles/chunk_video.dir/src/chunk_video.cpp.o"
+}
+]

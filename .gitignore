@@ -1,0 +1,62 @@
+# Ignore build directories
+build/
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+cmake_install.cmake
+Makefile
+
+# Ignore generated files
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+*.out
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.old
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore output files
+output.csv
+*.webm
+
+# Ignore user-specific files
+*.user
+*.DS_Store
+*.idea/
+*.vscode/
+*.iml
+
+# Ignore system-specific files
+Thumbs.db
+.DS_Store
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore other CMake generated files
+Testing/
+CTestTestfile.cmake
+CTestCostData.txt
+CTestNotes.txt
+CTestTargets.txt
+
+# Ignore specific directories
+/home/saisira/Documents/chunk_codec/CMakeFiles/
